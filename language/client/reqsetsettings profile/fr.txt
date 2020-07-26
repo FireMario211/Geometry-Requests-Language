@@ -1,0 +1,10 @@
+<:info:472908656514433064> Chargement...
+Chargement... Veuillez patienter un petit moment
+
+Erreur. <:error:472907618386575370>
+Vôtre compte n'est pas lié sur le bot et a besoin d'être lié pour utiliser cette commande, utiliser `req!profile link` pour lier vôtre compte.
+Vous avez besoin de mettre avec 'fr' ou 'en' pour changer la langue.
+Vous avez besoin de mettre une configuration (settings are in 'req!settings profile').
+
+Succès ! <:success:472908961176092702>
+La configuration a été mis à jour !

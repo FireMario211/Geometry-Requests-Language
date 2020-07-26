@@ -1,0 +1,10 @@
+**Thank you for using Geometry Request!**
+**Bot version = 1.2 (Translation Update)**
+**Discord.py version = 1.3.4**
+Geometry Request is owned by **Jouca#9408** and made for Geometry Dash players. The principal function of the bot is for level requests on Discord, it gives some features for help players for setup correctly level requests with this bot. This bot is not connected on Geometry Dash, except for search levels on the game.
+The bot is currently operating {servernumber} servers, if you want to have the bot, the link is bellow this message !
+Geometry Request invite link = https://discord.com/oauth2/authorize?client_id=707756141114949674&scope=bot&permissions=8
+You have a suggestion, or a reports, or you found bugs ? Please join the official Discord Server of Geometry Request.
+Discord link = https://discord.com/invite/eHeXQf2
+Profile picture of the bot made by **Hir0shi**
+Badges for achievements made by **XShadowWizardX (8=8)**
